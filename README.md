@@ -160,3 +160,6 @@ In short, rising drug prices—particularly for brand and specialty medications�
 
 To measure how concentrated Medicare’s drug spending is across manufacturers, I calculated the Herfindahl–Hirschman Index (HHI). Across 2019–2023, HHI remained low (200–300), indicating a highly competitive market with many manufacturers. However, HHI rose consistently over time, showing increasing concentration, driven by high-cost drugs from a smaller set of major manufacturers.
 
+## Conclusion
+
+Between 2019 and 2023, Medicare drug spending rose sharply, driven primarily by higher prices for branded and specialty drugs rather than increased utilization. Brand products consistently accounted for over 90% of total spending, and price-per-dose, per-claim, and per-beneficiary all climbed until 2022 before stabilizing slightly in 2023. Outlier drugs—mainly insulins, oncology injectables, and anti-infectives—became increasingly common and contributed heavily to spending volatility. Although manufacturer market concentration (HHI) remains low, it has increased steadily, reflecting growing dominance of a few large firms in high-cost therapies. Overall, rising prices, not volume, are the dominant force behind Medicare’s escalating drug expenditures.
