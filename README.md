@@ -149,6 +149,14 @@ Volume Effect %: 32.5 %
 Interaction Effect %: 10.1 %
 
 From 2019 to 2023, Medicare Part D spending increased by nearly $97 billion.
+
 Decomposition analysis shows that price inflation accounted for the majority of this growth (57%), while higher utilization contributed 33%, and price–volume interaction accounted for 10%.
 
 In short, rising drug prices—particularly for brand and specialty medications—were the dominant force behind Medicare spending growth, more than increases in utilization alone.
+
+#### Market Concentration (HHI)
+
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/0e50ef4f5784e86214d816822a103fa142377b23/image/Screenshot%202025-11-16%20144119.png)
+
+To measure how concentrated Medicare’s drug spending is across manufacturers, I calculated the Herfindahl–Hirschman Index (HHI). Across 2019–2023, HHI remained low (200–300), indicating a highly competitive market with many manufacturers. However, HHI rose consistently over time, showing increasing concentration, driven by high-cost drugs from a smaller set of major manufacturers.
+
