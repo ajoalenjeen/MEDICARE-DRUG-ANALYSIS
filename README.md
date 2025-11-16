@@ -76,7 +76,7 @@ Year-over-year analysis highlights a subset of drugs with extremely high 2022 �
 
 ### Mix: What is the brand vs. generic share and how is it shifting?
 
-Share of Total Spending
+#### Share of Total Spending
 
 * Brand share rose from 88.3% → 90.6%
 
@@ -85,7 +85,7 @@ Share of Total Spending
 This shift reflects increased use of high-cost branded therapies and relatively slow growth in generic spending.
 
 
-Substitution Ratio (Generic Claims ÷ Brand Claims)
+#### Substitution Ratio (Generic Claims ÷ Brand Claims)
 
 Patients consistently used more generic claims than brand claims, with a stable substitution ratio (>1).
 However, despite this high generic utilization:
@@ -93,18 +93,18 @@ However, despite this high generic utilization:
 * Generics account for <10% of spending, because their unit prices are much lower.
 
 
-Price Gap Between Brand and Generic Drugs (Statistical Test)
+#### Price Gap Between Brand and Generic Drugs (Statistical Test)
 
 A two-sample t-test comparing price per dose (PPD) shows:
 
-*Brand drugs are significantly more expensive
+* Brand drugs are significantly more expensive
 
     t-statistic = 14.23, p < 1e-45
 
 This confirms that branded products cost far more per unit than generics — explaining why brand drugs dominate spending even when generic usage is high.
 
 
-Brand vs. Generic Spending Trends (2019–2023)
+#### Brand vs. Generic Spending Trends (2019–2023)
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/2ce925f5e837b13f155d81a5091770fa3cafaec6/image/Screenshot%202025-11-16%20135359.png)
 
