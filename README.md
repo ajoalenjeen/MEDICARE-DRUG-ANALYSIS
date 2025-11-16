@@ -20,3 +20,10 @@ https://data.cms.gov/search?keywords=drug+spending&sort=Relevancy
 
 #### What is total spend by year and drug? By manufacturer?
 
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/tree/5de82b95749124111bd881aa86dddbd99b69737a/image)
+
+Part D spending is significantly higher than Part B, accounting for the bulk of Medicare drug expenditures.
+
+Both programs show year-over-year growth, with Part D rising from roughly $180B in 2019 to more than $275B in 2023.
+
+Part B spending grows more modestly—from about $38B to $50B—but still shows a clear upward trend.
