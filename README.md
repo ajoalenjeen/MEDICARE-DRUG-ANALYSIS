@@ -52,14 +52,14 @@ Medicare spending is heavily influenced by chronic-disease drug portfolios from 
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/bf00d2e98f31830bb88f91ce6f7ce356a08f58ec/image/Screenshot%202025-11-16%20130848.png)
 
-Eliquis (Apixaban) is the #1 Medicare drug by total spending every year—reaching over $18B in 2023.
+* Eliquis (Apixaban) is the #1 Medicare drug by total spending every year—reaching over $18B in 2023.
 
-Other consistently high-spend drugs include:
+* Other consistently high-spend drugs include:
 Xarelto, Revlimid, Trulicity, Jardiance, Januvia, and Ozempic.
 
-GLP-1 diabetes drugs (e.g., Ozempic) show extremely rapid growth, with spending more than doubling in 2023.
+* GLP-1 diabetes drugs (e.g., Ozempic) show extremely rapid growth, with spending more than doubling in 2023.
 
-Several drugs show declining trends (e.g., Revlimid) due to generic competition.
+* Several drugs show declining trends (e.g., Revlimid) due to generic competition.
 
 Interpretation:
 A small set of chronic cardiovascular and diabetes medications dominates Medicare spending. Demand for GLP-1 drugs is now one of the fastest-growing cost drivers in the system.
