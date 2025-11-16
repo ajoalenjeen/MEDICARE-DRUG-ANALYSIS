@@ -27,3 +27,25 @@ Part D spending is significantly higher than Part B, accounting for the bulk of 
 Both programs show year-over-year growth, with Part D rising from roughly $180B in 2019 to more than $275B in 2023.
 
 Part B spending grows more modestly—from about $38B to $50B—but still shows a clear upward trend.
+
+Interpretation:
+Growth is driven by rising utilization, higher prices for specialty drugs, and expansion of chronic-disease treatments (e.g., diabetes, cardiovascular, autoimmune therapies).
+
+
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/19e3c62b2fecca293ccb78b29a7203e0df9c1f02/image/Screenshot%202025-11-16%20130543.png)
+
+A small group of manufacturers dominates spending, led by:
+BMS (Bristol-Myers Squibb), Novo Nordisk, Boehringer Ingelheim, Eli Lilly, and GSK.
+
+These companies collectively account for tens of billions in spending due to blockbuster therapies in:
+
+* Anticoagulation (e.g., Eliquis, Xarelto)
+
+* Diabetes/GLP-1 drugs (e.g., Ozempic, Trulicity)
+
+* Oncology
+
+Manufacturer concentration is high and increasing, suggesting consolidation of market power among top pharmaceutical companies.
+
+Interpretation:
+Medicare spending is heavily influenced by chronic-disease drug portfolios from a few major manufacturers.
