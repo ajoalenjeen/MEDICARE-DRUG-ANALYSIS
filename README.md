@@ -20,7 +20,7 @@ https://data.cms.gov/search?keywords=drug+spending&sort=Relevancy
 
 #### What is total spend by year and drug? By manufacturer?
 
-![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/tree/5de82b95749124111bd881aa86dddbd99b69737a/image)
+![image alt]([https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/tree/5de82b95749124111bd881aa86dddbd99b69737a/image](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/1e6a13f52b57d630a9f2ce7711d50d43b55135a1/image/Screenshot%202025-11-16%20130527.png))
 
 Part D spending is significantly higher than Part B, accounting for the bulk of Medicare drug expenditures.
 
