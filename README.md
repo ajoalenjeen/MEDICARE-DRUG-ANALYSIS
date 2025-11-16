@@ -139,14 +139,14 @@ These results indicate that drug categories with fragile supply chains or limite
 ### Price vs. Volume Decomposition (2019 → 2023)
 
 Total Spending Growth 2019→2023: 96.98 B
-Price Effect: 55.61 B
-Volume Effect: 31.56 B
-Interaction Effect: 9.81 B
+* Price Effect: 55.61 B
+* Volume Effect: 31.56 B
+* Interaction Effect: 9.81 B
 
 Percentage Contribution:
-Price Effect %: 57.3 %
-Volume Effect %: 32.5 %
-Interaction Effect %: 10.1 %
+* Price Effect %: 57.3 %
+* Volume Effect %: 32.5 %
+* Interaction Effect %: 10.1 %
 
 From 2019 to 2023, Medicare Part D spending increased by nearly $97 billion.
 
