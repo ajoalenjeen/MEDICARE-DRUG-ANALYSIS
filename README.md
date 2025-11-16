@@ -11,7 +11,7 @@ https://data.cms.gov/search?keywords=drug+spending&sort=Relevancy
 ## Key questions explored:
 
 * Size: What is total spend by year and drug? By manufacturer?
-* Price: How is average spend per dose unit changing? Per claim? Per beneficiary?
+* Price: How is the price of Medicare drugs changing over time?
 * Mix: What is the brand vs. generic share and how is it shifting?
 * Outliers: Which products trigger the outlier flag and why?
 * Growth: Which drugs have the highest 2019–2023 CAGR in price-per-dose?
@@ -50,7 +50,7 @@ Manufacturer concentration is high and increasing, suggesting consolidation of m
 Interpretation:
 Medicare spending is heavily influenced by chronic-disease drug portfolios from a few major manufacturers.
 
-
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/bf00d2e98f31830bb88f91ce6f7ce356a08f58ec/image/Screenshot%202025-11-16%20130848.png)
 
 Eliquis (Apixaban) is the #1 Medicare drug by total spending every year—reaching over $18B in 2023.
 
@@ -63,5 +63,15 @@ Several drugs show declining trends (e.g., Revlimid) due to generic competition.
 
 Interpretation:
 A small set of chronic cardiovascular and diabetes medications dominates Medicare spending. Demand for GLP-1 drugs is now one of the fastest-growing cost drivers in the system.
+
+#### Price: How is the price of Medicare drugs changing over time?
+
+
+
+Drug prices in Medicare Part D show a clear upward trend from 2019 to 2022, with the median price per dose, price per claim, and price per beneficiary all increasing over time. Each metric peaks in 2022, followed by a modest decline in 2023, suggesting the combined effects of generic competition, policy pressure, and shifting utilization patterns. Overall, drug pricing remains on an upward trajectory despite this recent moderation.
+
+Year-over-year analysis highlights a subset of drugs with extremely high 2022 → 2023 price inflation, largely concentrated among older generic injectables affected by supply or manufacturing disruptions. At the same time, the list of the most expensive drugs in 2023 is dominated by high-cost biologics and rare-disease treatments, many exceeding $30,000 per dose. These findings indicate that while broad price levels have stabilized slightly, specific categories—particularly specialty and injectable drugs—continue to experience sharp increases.
+
+
 
 
