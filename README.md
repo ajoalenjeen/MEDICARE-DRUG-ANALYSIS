@@ -70,10 +70,14 @@ A small set of chronic cardiovascular and diabetes medications dominates Medicar
 
 Drug prices in Medicare Part D show a clear upward trend from 2019 to 2022, with the median price per dose, price per claim, and price per beneficiary all increasing over time. Each metric peaks in 2022, followed by a modest decline in 2023, suggesting the combined effects of generic competition, policy pressure, and shifting utilization patterns. Overall, drug pricing remains on an upward trajectory despite this recent moderation.
 
-![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/71272fcb6a1b104606ad040bfab1d7709494cd04/image/Screenshot%202025-11-16%20133756.png)
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/1d03b3b818a27ae4e6c92b3ced5df02d2e684db5/image/Screenshot%202025-11-16%20182434.png)
 
-Year-over-year analysis highlights a subset of drugs with extremely high 2022 → 2023 price inflation, largely concentrated among older generic injectables affected by supply or manufacturing disruptions. At the same time, the list of the most expensive drugs in 2023 is dominated by high-cost biologics and rare-disease treatments, many exceeding $30,000 per dose. These findings indicate that while broad price levels have stabilized slightly, specific categories—particularly specialty and injectable drugs—continue to experience sharp increases.
+* Amvuttra (Vutrisiran Sodium) is by far the most expensive drug, costing ~$239,000 per dose, and is used to treat hereditary transthyretin amyloidosis—a rare condition.
 
+* Other drugs on the list, including Vabysmo, Givlaari, Beovu, and Eylea, range from $35,000–$50,000 per dose and are largely injection-based biologics for rare metabolic diseases or advanced eye conditions.
+
+* These drugs typically have low usage (few patients) but very high cost per dose, meaning they can contribute disproportionately to Medicare’s specialty drug spending.
+  
 ### Mix: What is the brand vs. generic share and how is it shifting?
 
 #### Share of Total Spending
