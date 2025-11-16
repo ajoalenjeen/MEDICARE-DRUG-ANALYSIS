@@ -106,6 +106,22 @@ This confirms that branded products cost far more per unit than generics — exp
 
 Brand vs. Generic Spending Trends (2019–2023)
 
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/2ce925f5e837b13f155d81a5091770fa3cafaec6/image/Screenshot%202025-11-16%20135359.png)
+
+Brand drugs dominate Medicare Part D spending.
+From 2019–2023:
+
+* Brand-name drug spending increased from ~$160B → $250B
+
+* Generic drug spending increased modestly from ~$20B → ~$27B
+
+Although generics make up most prescriptions, they represent only a small fraction of total costs, while brand drugs drive almost all spending growth.
 
 
+#### Outliers: Which products trigger the outlier flag and why?
 
+The outlier flag identifies products with unusually high or unstable pricing patterns. Outlier counts have risen from 571 in 2019 to nearly 1,500 in 2023, indicating increasing volatility in the drug market. Certain drugs—particularly insulin formulations, cancer therapies, and anti-infectives—are flagged consistently across all five years, suggesting structural pricing issues within these categories.
+
+The most expensive outlier products are ultra-high-cost specialty biologics, reaching more than $30,000 per dose. Meanwhile, the manufacturers with the highest number of outlier drugs tend to be producers of sterile injectable generics, a market segment known for supply chain disruptions and price instability. Together, these trends highlight systemic pressures in both specialty drug pricing and the generic injectable supply chain.
+
+Overall, outliers highlight systemic pricing volatility in insulin, specialty oncology, and sterile injectable markets.
