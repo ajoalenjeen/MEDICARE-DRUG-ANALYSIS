@@ -125,3 +125,30 @@ The outlier flag identifies products with unusually high or unstable pricing pat
 The most expensive outlier products are ultra-high-cost specialty biologics, reaching more than $30,000 per dose. Meanwhile, the manufacturers with the highest number of outlier drugs tend to be producers of sterile injectable generics, a market segment known for supply chain disruptions and price instability. Together, these trends highlight systemic pressures in both specialty drug pricing and the generic injectable supply chain.
 
 Overall, outliers highlight systemic pricing volatility in insulin, specialty oncology, and sterile injectable markets.
+
+
+#### Growth: Which drugs have the highest 2019–2023 CAGR in price-per-dose?
+
+![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/473ac7edcb87efafff837c29d57e3c0165d637ea/image/Screenshot%202025-11-16%20143055.png)
+
+Over 2019–2023, the fastest-growing drugs by price were dominated by sterile injectables, anti-infectives, and recently launched specialty therapies. Magnesium chloride and amphotericin B showed the highest long-term acceleration, driven by supply instability and limited market competition.
+
+These results indicate that drug categories with fragile supply chains or limited manufacturer competition experience the strongest multi-year price inflation.
+
+
+#### Price vs. Volume Decomposition (2019 → 2023)
+
+Total Spending Growth 2019→2023: 96.98 B
+Price Effect: 55.61 B
+Volume Effect: 31.56 B
+Interaction Effect: 9.81 B
+
+Percentage Contribution:
+Price Effect %: 57.3 %
+Volume Effect %: 32.5 %
+Interaction Effect %: 10.1 %
+
+From 2019 to 2023, Medicare Part D spending increased by nearly $97 billion.
+Decomposition analysis shows that price inflation accounted for the majority of this growth (57%), while higher utilization contributed 33%, and price–volume interaction accounted for 10%.
+
+In short, rising drug prices—particularly for brand and specialty medications—were the dominant force behind Medicare spending growth, more than increases in utilization alone.
