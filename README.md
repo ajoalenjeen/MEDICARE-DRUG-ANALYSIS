@@ -1,14 +1,14 @@
 # MEDICARE-DRUG-ANALYSIS
 
-## Project Overview
+# Project Overview
 
 This project analyzes Medicare drug spending from 2019 to 2023, using publicly available CMS datasets. The goal is to understand where Medicare’s drug dollars are going, identify cost drivers, and uncover trends in pricing, utilization, and manufacturer concentration.
 
-## Dataset link
+# Dataset link
 
 https://data.cms.gov/search?keywords=drug+spending&sort=Relevancy
 
-## Key questions explored:
+# Key questions explored:
 
 * Size: What is total spend by year and drug? By manufacturer?
 * Price: How is the price of Medicare drugs changing over time?
@@ -16,9 +16,9 @@ https://data.cms.gov/search?keywords=drug+spending&sort=Relevancy
 * Outliers: Which products trigger the outlier flag and why?
 * Growth: Which drugs have the highest 2019–2023 CAGR in price-per-dose?
 
-## Analysis
+# Analysis
 
-### What is total spend by year and drug? By manufacturer?
+## What is total spend by year and drug? By manufacturer?
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/2d62c3fe6b99290a703dad8e11fbd71ceaf81c9d/image/Screenshot%202025-11-16%20130527.png)
 
@@ -62,7 +62,7 @@ Xarelto, Revlimid, Trulicity, Jardiance, Januvia, and Ozempic.
 Interpretation:
 A small set of chronic cardiovascular and diabetes medications dominates Medicare spending. Demand for GLP-1 drugs is now one of the fastest-growing cost drivers in the system.
 
-### Price: How is the price of Medicare drugs changing over time?
+## Price: How is the price of Medicare drugs changing over time?
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/71272fcb6a1b104606ad040bfab1d7709494cd04/image/Screenshot%202025-11-16%20133716.png) ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/71272fcb6a1b104606ad040bfab1d7709494cd04/image/Screenshot%202025-11-16%20133728.png) ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/71272fcb6a1b104606ad040bfab1d7709494cd04/image/Screenshot%202025-11-16%20133737.png)
 
@@ -78,7 +78,7 @@ Drug prices in Medicare Part D show a clear upward trend from 2019 to 2022, with
 
 * These drugs typically have low usage (few patients) but very high cost per dose, meaning they can contribute disproportionately to Medicare’s specialty drug spending.
   
-### Mix: What is the brand vs. generic share and how is it shifting?
+## Mix: What is the brand vs. generic share and how is it shifting?
 
 #### Share of Total Spending
 
@@ -122,7 +122,7 @@ From 2019–2023:
 Although generics make up most prescriptions, they represent only a small fraction of total costs, while brand drugs drive almost all spending growth.
 
 
-### Outliers: Which products trigger the outlier flag and why?
+## Outliers: Which products trigger the outlier flag and why?
 
 The outlier flag identifies products with unusually high or unstable pricing patterns. Outlier counts have risen from 571 in 2019 to nearly 1,500 in 2023, indicating increasing volatility in the drug market. Certain drugs—particularly insulin formulations, cancer therapies, and anti-infectives—are flagged consistently across all five years, suggesting structural pricing issues within these categories.
 
@@ -131,7 +131,7 @@ The most expensive outlier products are ultra-high-cost specialty biologics, rea
 Overall, outliers highlight systemic pricing volatility in insulin, specialty oncology, and sterile injectable markets.
 
 
-### Growth: Which drugs have the highest 2019–2023 CAGR in price-per-dose?
+## Growth: Which drugs have the highest 2019–2023 CAGR in price-per-dose?
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/473ac7edcb87efafff837c29d57e3c0165d637ea/image/Screenshot%202025-11-16%20143055.png)
 
@@ -140,7 +140,7 @@ Over 2019–2023, the fastest-growing drugs by price were dominated by sterile i
 These results indicate that drug categories with fragile supply chains or limited manufacturer competition experience the strongest multi-year price inflation.
 
 
-### Price vs. Volume Decomposition (2019 → 2023)
+## Price vs. Volume Decomposition (2019 → 2023)
 
 Total Spending Growth 2019→2023: 96.98 B
 * Price Effect: 55.61 B
@@ -158,7 +158,7 @@ Decomposition analysis shows that price inflation accounted for the majority of 
 
 In short, rising drug prices—particularly for brand and specialty medications—were the dominant force behind Medicare spending growth, more than increases in utilization alone.
 
-### Market Concentration (HHI)
+## Market Concentration (HHI)
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/0e50ef4f5784e86214d816822a103fa142377b23/image/Screenshot%202025-11-16%20144119.png)
 
