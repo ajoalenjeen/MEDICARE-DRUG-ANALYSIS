@@ -72,11 +72,6 @@ Drug prices in Medicare Part D show a clear upward trend from 2019 to 2022, with
 
 ![image alt](https://github.com/ajoalenjeen/MEDICARE-DRUG-ANALYSIS/blob/1d03b3b818a27ae4e6c92b3ced5df02d2e684db5/image/Screenshot%202025-11-16%20182434.png)
 
-* Amvuttra (Vutrisiran Sodium) is by far the most expensive drug, costing ~$239,000 per dose, and is used to treat hereditary transthyretin amyloidosis—a rare condition.
-
-* Other drugs on the list, including Vabysmo, Givlaari, Beovu, and Eylea, range from $35,000–$50,000 per dose and are largely injection-based biologics for rare metabolic diseases or advanced eye conditions.
-
-* These drugs typically have low usage (few patients) but very high cost per dose, meaning they can contribute disproportionately to Medicare’s specialty drug spending.
   
 ## Mix: What is the brand vs. generic share and how is it shifting?
 
