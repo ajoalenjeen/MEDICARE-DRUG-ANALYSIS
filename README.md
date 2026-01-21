@@ -45,8 +45,6 @@ These companies collectively account for tens of billions in spending due to blo
 
 * Oncology
 
-Manufacturer concentration is high and increasing, suggesting consolidation of market power among top pharmaceutical companies.
-
 Interpretation:
 Medicare spending is heavily influenced by chronic-disease drug portfolios from a few major manufacturers.
 
